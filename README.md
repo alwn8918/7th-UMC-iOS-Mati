@@ -1,4 +1,4 @@
-## Commit Convention
+## Commit Convention
 
 | 아이콘 | 이름 | 설명                     |
 | ---- | --- | ------------------------ |
